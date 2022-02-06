@@ -1,0 +1,17 @@
+.posts {
+  text-align: center;
+  margin: 20px;
+  border: 1px solid black;
+}
+.title {
+  font-family: sans-serif;
+  font-size: 25px;
+}
+.body {
+  font-family: serif;
+  font-size: 16px;
+}
+
+.comments {
+  margin: 20px;
+}
